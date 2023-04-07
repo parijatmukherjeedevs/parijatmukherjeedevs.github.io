@@ -2,7 +2,11 @@ import React from "react";
 
 const footerStyle={
     backgroundColor: "#c9f29b",
-    align:"center"
+    align:"center",
+    position:"fixed",
+    bottom:"0",
+    width: "100%",
+    height: "60px"
     
 }
 
