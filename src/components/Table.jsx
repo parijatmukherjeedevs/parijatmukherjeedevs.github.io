@@ -1,11 +1,18 @@
 import React from "react";
 import DisplayBox from "./DisplayBox";
-import Button from "./Button"
+import Button from "./Button";
 
+const tableStyle={
+
+    paddingBottom:"60px",
+    position:"relative",
+    align:"center"
+
+}
 
 function Table(){
     return(
-        <div>
+        <div style={tableStyle}>
             <div>
                 <span>
                   <DisplayBox id="source-content" placeholder="Enter Content Here..."></DisplayBox>
