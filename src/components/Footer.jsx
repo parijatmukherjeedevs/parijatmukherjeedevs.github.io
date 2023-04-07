@@ -6,8 +6,7 @@ const footerStyle={
     position:"fixed",
     bottom:"0",
     width: "100%",
-    height: "60px",
-    marginTop:"10px"
+    height: "60px
     
 }
 
