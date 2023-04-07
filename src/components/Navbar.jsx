@@ -1,7 +1,7 @@
 import React from "react";
 
 const navbarStyle={
-    backgroundColor: "#c9f29b",
+    backgroundColor: "#16453e",
     align:"center",
     marginBottom:"20px"
     
