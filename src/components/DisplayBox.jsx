@@ -12,7 +12,7 @@ const textAreaStyle={
 
 function DisplayBox(props){
     return(
-        <textarea id={props.id} rows="5" cols="10" placeholder={props.placeholder} style={textAreaStyle}></textarea> 
+        <textarea id={props.id} rows="10" cols="30" placeholder={props.placeholder} style={textAreaStyle}></textarea> 
 
     );
 };
