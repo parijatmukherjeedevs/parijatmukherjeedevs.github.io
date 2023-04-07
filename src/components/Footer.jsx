@@ -1,7 +1,7 @@
 import React from "react";
 
 const footerStyle={
-    backgroundColor: "#c9f29b",
+    backgroundColor: "#16453e",
     align:"center",
     position:"fixed",
     bottom:"0",
